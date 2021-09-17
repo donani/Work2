@@ -1,0 +1,6 @@
+bin\Debug\POC.Console.Sender.exe
+bin\Debug\POC.Console.Sender.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\POC.Console.Sender.exe
+obj\Debug\POC.Console.Sender.pdb
+bin\Debug\POC.Console.Sender.exe.config

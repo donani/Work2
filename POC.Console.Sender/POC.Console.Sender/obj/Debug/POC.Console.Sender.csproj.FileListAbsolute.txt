@@ -1,0 +1,6 @@
+D:\kdw\Ref\20210113 새올\소스\POC.Console.Sender\POC.Console.Sender\bin\Debug\POC.Console.Sender.exe.config
+D:\kdw\Ref\20210113 새올\소스\POC.Console.Sender\POC.Console.Sender\obj\Debug\POC.Console.Sender.exe
+D:\kdw\Ref\20210113 새올\소스\POC.Console.Sender\POC.Console.Sender\obj\Debug\POC.Console.Sender.pdb
+D:\kdw\Ref\20210113 새올\소스\POC.Console.Sender\POC.Console.Sender\bin\Debug\POC.Console.Sender.exe
+D:\kdw\Ref\20210113 새올\소스\POC.Console.Sender\POC.Console.Sender\bin\Debug\POC.Console.Sender.pdb
+D:\kdw\Ref\20210113 새올\소스\POC.Console.Sender\POC.Console.Sender\obj\Debug\POC.Console.Sender.csprojResolveAssemblyReference.cache
